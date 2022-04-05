@@ -1,0 +1,30 @@
+header {
+  background: linear-gradient(to left, #4e54c8, #8f94fb);
+  font-family: 'Courier New', monospace;
+}
+
+header h1 {
+  color: #fff;
+}
+
+header nav ul {
+  display: flex;
+  width: 50px;
+  justify-content: space-;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+header nav ul li {
+  color: #fff;
+}
+
+header nav ul .menuHighlight {
+  width: 100%;
+  position: fixe;
+}
+
+main {
+  background-color: gray;
+  height: calc(100vh - 80px);
+}
